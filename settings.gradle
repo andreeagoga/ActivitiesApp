@@ -1,0 +1,5 @@
+rootProject.name = 'hellorpc'
+include 'common'
+include 'server'
+include 'client'
+
